@@ -17,9 +17,10 @@
 
 
 <h3 dir="rtl" style="text-align: right;direction: rtl;">🤝 ویژگی های مهم</h3>
+
 - [X] warning 
 - [X] ban and unban
-- [ ] haskelhide
+- [X] haskelhide
 - [x] CAPTCHA
 - [x] mute and unmute
 - [X] promote to 3 acsess (sudo - co-sudoer - fSudo)
