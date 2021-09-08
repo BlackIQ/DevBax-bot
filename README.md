@@ -24,4 +24,5 @@
 - [x] CAPTCHA
 - [x] mute and unmute
 - [X] promote to 3 acsess (sudo - co-sudoer - fSudo)
+- [ ] Code Runner (python , php)
 
