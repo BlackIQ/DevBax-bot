@@ -16,11 +16,11 @@
 <p dir="rtl" style="text-align: right;direction: rtl;">این پروژه تحت پروانه GPL نسخه 3 منتشر و نگه‌داری می‌شود و از این‌جهت، هرکسی می‌تواند در صورت نیاز اقدام به مشارکت برای اصلاح یا بهبود یا حتی اضافه کردن ویژگی های جدید به این پروژه کند، همچنین ایجاد فورک های مختلف از پروژه و توسعه پروژه در شاخه‌ای جدا، چه به‌صورت رایگان و چه به‌صورت تجاری، هیچگونه مانعی ندارد</p>
 
 
-<h3 dir="rtl" style="text-align: right;direction: rtl;">🤝 ویژگی ها</h3>
-- [X] اخطار
-- [X] بن و آنبن
-- [ ] چت مخفی(برگرفته از دوولوپیکس)
-- [x] کپتچا و حفاظت از رباتهای بیگانه
-- [x] سکوت زماندار و ابدی
-- [X] ارتقا افراد به مدیریت(sudo , fsudo & co-sudoer) درجه بندی های فعلی
+<h3 dir="rtl" style="text-align: right;direction: rtl;">🤝 ویژگی های مهم</h3>
+- [X] warning 
+- [X] ban and unban
+- [ ] haskelhide
+- [x] CAPTCHA
+- [x] mute and unmute
+- [X] promote to 3 acsess (sudo - co-sudoer - fSudo)
 
