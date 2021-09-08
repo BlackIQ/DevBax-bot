@@ -1,5 +1,9 @@
 <h1 style="text-align: right;direction: rtl;" dir="rtl">⭕️کمک به افراد برای اداره هرچه فان تره گروه</h1>
-
+<div align="right">
+<a href='https://devbax-bot-doc.readthedocs.io/en/latest/?badge=latest'>
+    <img src='https://readthedocs.org/projects/devbax-bot-doc/badge/?version=latest' alt='Documentation Status' />
+</a>
+  </div>
 <p style="text-align: right;direction: rtl;" dir="rtl">📟 همه گروه های بزرگ نیاز به یه بات خفن دارن تا از گروه مراقبت کنه این بات کارش همینه سعی کرده فیچر خیلی از ربات های بنام رو تو خودش داشته باشه برای راهنمایی بهتر و فهم دقیق تر داکیومنت دووبکس رو مطالعه کنید</p>
 
 <br>
