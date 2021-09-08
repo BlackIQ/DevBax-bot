@@ -1,8 +1,8 @@
 # repo:     mehranalam/devBax-bot
 # filename: FUNDING.YML
+# repo:     mehranalam/foobar
+# filename: FUNDING.YML
 
-patreon:            mehranalam
-
-custom:             ["patreon.com", “another_custom_url.com”]
+github: [merhanalam, blackiq]
 
 github: mehranalam
