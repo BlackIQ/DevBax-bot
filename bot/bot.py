@@ -612,7 +612,9 @@ more information this user :
 
 He has **{result["public_repos"]}** public repo so far. He also became a GitHub member on __{result["created_at"]}__ ...
 
-So far, he has had ☕️ **{abs(coffee)}** cups of coffee and coded for ⏱ **{abs(hour)}** hours ..."""
+So far, he has had ☕️ **{abs(coffee)}** cups of coffee and coded for ⏱ **{abs(hour)}** hours ...
+
+More information in https://ug-search.herokuapp.com/user/{listOf[1]}"""
             message.reply_text(text)
         except:
             message.reply_text("🌍لطفا در وارد کردن یوزرنیم دقت کنید")
